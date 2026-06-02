@@ -1,4 +1,4 @@
 print("Lancement du projet")
-def somme(*args):
-  "Function that return the somme of arguments"
-  return sum(*args)
+def max(*args):
+  "Function that return the max of arguments"
+  return max(*args)
